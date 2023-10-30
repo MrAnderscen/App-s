@@ -45,7 +45,7 @@ namespace Andrey__s_App
 
             int selectedIndex = listBox1.Items.Count + 1;
 
-            listBox1.Items.Add("Âîïðîñ " + selectedIndex);
+            listBox1.Items.Add("Ã‚Ã®Ã¯Ã°Ã®Ã± " + selectedIndex);
             ClearInputs();
 
         }
@@ -109,14 +109,14 @@ namespace Andrey__s_App
                 SaveFileDialog saveDialog = new SaveFileDialog();
                 
                 saveDialog.FileName = "data.json";
-                saveDialog.Filter = "JSON ôàéë (*.json)|*.json";
+                saveDialog.Filter = "JSON Ã´Ã Ã©Ã« (*.json)|*.json";
 
                 if (saveDialog.ShowDialog() == DialogResult.OK)
                 {
                     string filePath = saveDialog.FileName;
                 JObject jObject = new JObject();
                 jObject["ok"] = true;
-                jObject["quests"] = JArray.FromObject(quests);
+                jObject["questions"] = JArray.FromObject(quests);
                 string json = jObject.ToString();
                 File.WriteAllText(filePath, json);
                     Close();
