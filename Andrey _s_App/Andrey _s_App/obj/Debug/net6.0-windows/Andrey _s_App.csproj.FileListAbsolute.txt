@@ -1,0 +1,37 @@
+C:\Users\Компьютер\Desktop\Андрей\C#\Andrey _s_App\Andrey _s_App\bin\Debug\net6.0-windows\Andrey _s_App.exe
+C:\Users\Компьютер\Desktop\Андрей\C#\Andrey _s_App\Andrey _s_App\bin\Debug\net6.0-windows\Andrey _s_App.deps.json
+C:\Users\Компьютер\Desktop\Андрей\C#\Andrey _s_App\Andrey _s_App\bin\Debug\net6.0-windows\Andrey _s_App.runtimeconfig.json
+C:\Users\Компьютер\Desktop\Андрей\C#\Andrey _s_App\Andrey _s_App\bin\Debug\net6.0-windows\Andrey _s_App.dll
+C:\Users\Компьютер\Desktop\Андрей\C#\Andrey _s_App\Andrey _s_App\bin\Debug\net6.0-windows\Andrey _s_App.pdb
+C:\Users\Компьютер\Desktop\Андрей\C#\Andrey _s_App\Andrey _s_App\obj\Debug\net6.0-windows\Andrey _s_App.csproj.AssemblyReference.cache
+C:\Users\Компьютер\Desktop\Андрей\C#\Andrey _s_App\Andrey _s_App\obj\Debug\net6.0-windows\Andrey__s_App.Form1.resources
+C:\Users\Компьютер\Desktop\Андрей\C#\Andrey _s_App\Andrey _s_App\obj\Debug\net6.0-windows\Andrey _s_App.csproj.GenerateResource.cache
+C:\Users\Компьютер\Desktop\Андрей\C#\Andrey _s_App\Andrey _s_App\obj\Debug\net6.0-windows\Andrey _s_App.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Компьютер\Desktop\Андрей\C#\Andrey _s_App\Andrey _s_App\obj\Debug\net6.0-windows\Andrey _s_App.AssemblyInfoInputs.cache
+C:\Users\Компьютер\Desktop\Андрей\C#\Andrey _s_App\Andrey _s_App\obj\Debug\net6.0-windows\Andrey _s_App.AssemblyInfo.cs
+C:\Users\Компьютер\Desktop\Андрей\C#\Andrey _s_App\Andrey _s_App\obj\Debug\net6.0-windows\Andrey _s_App.csproj.CoreCompileInputs.cache
+C:\Users\Компьютер\Desktop\Андрей\C#\Andrey _s_App\Andrey _s_App\obj\Debug\net6.0-windows\Andrey _s_App.dll
+C:\Users\Компьютер\Desktop\Андрей\C#\Andrey _s_App\Andrey _s_App\obj\Debug\net6.0-windows\refint\Andrey _s_App.dll
+C:\Users\Компьютер\Desktop\Андрей\C#\Andrey _s_App\Andrey _s_App\obj\Debug\net6.0-windows\Andrey _s_App.pdb
+C:\Users\Компьютер\Desktop\Андрей\C#\Andrey _s_App\Andrey _s_App\obj\Debug\net6.0-windows\Andrey _s_App.genruntimeconfig.cache
+C:\Users\Компьютер\Desktop\Андрей\C#\Andrey _s_App\Andrey _s_App\obj\Debug\net6.0-windows\ref\Andrey _s_App.dll
+C:\Users\Компьютер\Desktop\Андрей\C#\Andrey _s_App\Andrey _s_App\obj\Debug\net6.0-windows\Andrey__s_App.Redact.resources
+C:\Users\User\Desktop\Andrey _s_App\Andrey _s_App\bin\Debug\net6.0-windows\Andrey _s_App.exe
+C:\Users\User\Desktop\Andrey _s_App\Andrey _s_App\bin\Debug\net6.0-windows\Andrey _s_App.deps.json
+C:\Users\User\Desktop\Andrey _s_App\Andrey _s_App\bin\Debug\net6.0-windows\Andrey _s_App.runtimeconfig.json
+C:\Users\User\Desktop\Andrey _s_App\Andrey _s_App\bin\Debug\net6.0-windows\Andrey _s_App.dll
+C:\Users\User\Desktop\Andrey _s_App\Andrey _s_App\bin\Debug\net6.0-windows\Andrey _s_App.pdb
+C:\Users\User\Desktop\Andrey _s_App\Andrey _s_App\obj\Debug\net6.0-windows\Andrey__s_App.Form1.resources
+C:\Users\User\Desktop\Andrey _s_App\Andrey _s_App\obj\Debug\net6.0-windows\Andrey__s_App.Redact.resources
+C:\Users\User\Desktop\Andrey _s_App\Andrey _s_App\obj\Debug\net6.0-windows\Andrey _s_App.csproj.GenerateResource.cache
+C:\Users\User\Desktop\Andrey _s_App\Andrey _s_App\obj\Debug\net6.0-windows\Andrey _s_App.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\Desktop\Andrey _s_App\Andrey _s_App\obj\Debug\net6.0-windows\Andrey _s_App.AssemblyInfoInputs.cache
+C:\Users\User\Desktop\Andrey _s_App\Andrey _s_App\obj\Debug\net6.0-windows\Andrey _s_App.AssemblyInfo.cs
+C:\Users\User\Desktop\Andrey _s_App\Andrey _s_App\obj\Debug\net6.0-windows\Andrey _s_App.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\Andrey _s_App\Andrey _s_App\obj\Debug\net6.0-windows\Andrey _s_App.dll
+C:\Users\User\Desktop\Andrey _s_App\Andrey _s_App\obj\Debug\net6.0-windows\refint\Andrey _s_App.dll
+C:\Users\User\Desktop\Andrey _s_App\Andrey _s_App\obj\Debug\net6.0-windows\Andrey _s_App.pdb
+C:\Users\User\Desktop\Andrey _s_App\Andrey _s_App\obj\Debug\net6.0-windows\Andrey _s_App.genruntimeconfig.cache
+C:\Users\User\Desktop\Andrey _s_App\Andrey _s_App\obj\Debug\net6.0-windows\ref\Andrey _s_App.dll
+C:\Users\User\Desktop\Andrey _s_App\Andrey _s_App\obj\Debug\net6.0-windows\Andrey _s_App.csproj.AssemblyReference.cache
+C:\Users\User\Desktop\Andrey _s_App\Andrey _s_App\obj\Debug\net6.0-windows\Andrey _s_App.csproj.Fody.CopyLocal.cache

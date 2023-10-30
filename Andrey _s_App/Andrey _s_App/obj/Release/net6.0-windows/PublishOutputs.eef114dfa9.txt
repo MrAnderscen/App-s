@@ -1,0 +1,6 @@
+C:\Users\User\Desktop\Вопросы\Andrey _s_App.exe
+C:\Users\User\Desktop\Вопросы\Andrey _s_App.dll
+C:\Users\User\Desktop\Вопросы\Andrey _s_App.deps.json
+C:\Users\User\Desktop\Вопросы\Andrey _s_App.runtimeconfig.json
+C:\Users\User\Desktop\Вопросы\Andrey _s_App.pdb
+C:\Users\User\Desktop\Вопросы\Newtonsoft.Json.dll
